@@ -1,0 +1,53 @@
+{
+    "companies": [
+      {
+        "name": "Alfreds Futterkiste",
+        "contact": "Maria Anders",
+        "country": "Germany"
+      },
+      {
+        "name": "Centro comercial Moctezuma",
+        "contact": "Francisco Chang",
+        "country": "Mexico"
+      },
+      {
+        "name": "Ernst Handel",
+        "contact": "Roland Mendel",
+        "country": "Austria"
+      }
+    ],
+    "employees": [
+      {
+        "name": "John Smith",
+        "position": "Accountant",
+        "salary": 1.100
+      },
+      {
+        "name": "Mary Doe",
+        "position": "H.R. Manager",
+        "salary": 1.200
+      },
+      {
+        "name": "Helen Rogers",
+        "position": "Marketing Research Analyst",
+        "salary": 1.350
+      }
+    ],
+    "product": [
+        {
+            "name": "Laptop",
+            "price": 899,
+            "stock": 30
+        },
+        {
+            "name": "Android Phone",
+            "price": 650,
+            "stock": 46
+        },
+        {
+            "name": "Printer",
+            "price": 90,
+            "stock": 10
+        }
+    ]
+}
